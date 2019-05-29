@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/zhihu" android:title="A" android:checkable="true"/>
+    <item android:id="@+id/weChat" android:title="B"  android:checkable="true"/>
+
+</menu>
